@@ -1,4 +1,4 @@
-# How to Create an Easy App with No Coding Experience 🚀
+#  to Create an Easy App with No Coding Experience 🚀
 
 In this series, we’ll go over creating real software with AI — and I’ll teach it as if you have zero coding experience.  
 > ❓ Did you download this code and run into errors? [Watch this troubleshooting video](https://youtu.be/ByRf8fsWE0Q)
